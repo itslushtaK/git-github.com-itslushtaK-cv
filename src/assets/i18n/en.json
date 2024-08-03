@@ -1,0 +1,143 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_GentuarLushtaku.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>1 year of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Asp.Net</span> and <span class='underline'>Angular</span>, applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "In <span class='underline'>my experience</span> I've covered many roles: <span class='underline'>Backend developer</span>, <span class='underline'>FrontEnd Developer</span>, <span class='underline'>WordPress Developer</span>, and <span class='underline'>UI/UX</span>. I love contributing my knowledge to create new things that help solve problems.",
+    "My capabilities also include implementing improvements in systems, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "I also program things for my personal use, whether as a hobby or for utility.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "CodeInvention",
+      "Title": "BackEnd developer",
+      "Date": "February 2024 - August 2024",
+      "Description": [
+        "",
+        "Developing backend solutions using Clean Architecture",
+        "Occasionally working with Angular and Figma for UI/UX tasks"
+      ]
+    },
+
+    {
+      "Tab": "Freelancer",
+      "Title": "Independent",
+      "Date": "May 2023 - Present",
+      "Description": [
+        "Implementing continuous improvements, working on frontend and backend.",
+        "Creating platforms with Angular, Asp.Net, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+        "Automation of processes with SharePoint & Power Automate.",
+        "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Netflix",
+      "Description": "Netflix is a movie-watching web application featuring role-based administration. Users can manage their profiles and permissions while enjoying a seamless movie experience. The application includes email confirmation functionality using SendGrid and utilizes Cloudinary for media storage",
+      "imgs": [
+        "assets/images/netflix/homeBf.PNG",
+        "assets/images/netflix/register.PNG",
+        "assets/images/netflix/emailconfiramtion.PNG",
+        "assets/images/netflix/login.PNG",
+        "assets/images/netflix/Movies.png",
+        "assets/images/netflix/AddActor.PNG",
+        "assets/images/netflix/actorForms.PNG"
+      ],
+      "Technologies": [
+        "Asp.Net",
+        "Angular",
+        "SASS",
+        "Angular Material",
+        "PostgreSql",
+        "Azure"
+      ]
+    },
+
+    {
+      "Title": "OnlineJobPortal",
+      "Description": "OnlineJobPortal is a web application designed for job seekers and employers. Users can browse job listings, apply for positions, and manage their applications. The platform includes an admin dashboard that allows administrators to review applications and download CVs. Built with <span class='underline'>Angular</span> for the frontend and <span class='underline'>ASP.NET Web API</span> for the backend, it provides a seamless experience for both job seekers and administrators.",
+      "imgs": [
+        "assets/images/OnlineJobPortal/1.PNG",
+        "assets/images/OnlineJobPortal/2.PNG",
+        "assets/images/OnlineJobPortal/33.PNG",
+        "assets/images/OnlineJobPortal/3.PNG",
+        "assets/images/OnlineJobPortal/4.PNG",
+        "assets/images/OnlineJobPortal/contact.PNG",
+        "assets/images/OnlineJobPortal/about.PNG",
+        "assets/images/OnlineJobPortal/home.PNG",
+        "assets/images/OnlineJobPortal/dashboard.PNG",
+        "assets/images/OnlineJobPortal/newjob.PNG",
+        "assets/images/OnlineJobPortal/joblist.PNG",
+        "assets/images/OnlineJobPortal/userList.PNG",
+        "assets/images/OnlineJobPortal/contacttList.PNG"
+      ],
+      "Technologies": [
+        "Asp.Net Web Forms",
+        "VueJS",
+        "Html&CSS",
+        "Bootstrap",
+        "MySQL"
+      ]
+    },
+
+    {
+      "Title": "CHELSEAFCshqip",
+      "Description": "CHELSEAFCshqip is a dedicated news portal for Chelsea Football Club fans. The platform provides up-to-date news, articles, and updates about the club. Users can subscribe and register for premium content to access exclusive features and insights. Built with a focus on delivering a rich and engaging experience for Chelsea supporters.",
+      "imgs": [
+        "assets/images/agrourbana/agrourbana1.png",
+        "assets/images/agrourbana/agrourbana2.png",
+        "assets/images/agrourbana/agrourbana3.png",
+        "assets/images/agrourbana/agrourbana4.png",
+        "assets/images/agrourbana/agrourbana5.png"
+      ],
+      "Technologies": ["WordPress", "Elementor", "Some custom plugins"]
+    },
+    {
+      "Title": "ERI",
+      "Description": "ERI is a website for a garden company based in Germany. The site showcases a range of gardening and landscaping services offered by the company. It provides detailed information about their services and other features to enhance user experience, making it a comprehensive platform for clients to explore offerings and get in touch for their gardening needs.",
+      "imgs": [
+        "assets/images/tusuperplan/tusuperplan1.png",
+        "assets/images/tusuperplan/tusuperplan2.png",
+        "assets/images/tusuperplan/tusuperplan3.png",
+        "assets/images/tusuperplan/tusuperplan4.png",
+        "assets/images/tusuperplan/tusuperplan5.png"
+      ],
+      "Technologies": ["WordPress", "Elementor", "Some custom plugins"]
+    },
+    {
+      "Title": "EatSmart",
+      "Description": "Webiste for resturant made from scratch <span class='underline'></span>, <span class='underline'>and designed with Figma</span>, <span class='underline'></span>",
+      "imgs": [
+        "assets/images/eatsmart/1.PNG",
+        "assets/images/eatsmart/2.PNG",
+        "assets/images/eatsmart/3.PNG",
+        "assets/images/eatsmart/4.PNG",
+        "assets/images/eatsmart/5.PNG",
+        "assets/images/eatsmart/6.PNG",
+        "assets/images/eatsmart/8.PNG",
+        "assets/images/eatsmart/10.PNG"
+      ],
+      "Technologies": ["HTML", "CSS", "JavaScript", "PixiJS", "Bootrap"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
