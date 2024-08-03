@@ -100,11 +100,12 @@
       "Title": "CHELSEAFCshqip",
       "Description": "CHELSEAFCshqip is a dedicated news portal for Chelsea Football Club fans. The platform provides up-to-date news, articles, and updates about the club. Users can subscribe and register for premium content to access exclusive features and insights. Built with a focus on delivering a rich and engaging experience for Chelsea supporters.",
       "imgs": [
-        "assets/images/agrourbana/agrourbana1.png",
-        "assets/images/agrourbana/agrourbana2.png",
-        "assets/images/agrourbana/agrourbana3.png",
-        "assets/images/agrourbana/agrourbana4.png",
-        "assets/images/agrourbana/agrourbana5.png"
+        "assets/images/chelseafcshqip/1.PNG",
+        "assets/images/chelseafcshqip/register.PNG",
+        "assets/images/chelseafcshqip/login.PNG",
+        "assets/images/chelseafcshqip/3.PNG",
+        "assets/images/chelseafcshqip/2.PNG",
+        "assets/images/chelseafcshqip/4.PNG"
       ],
       "Technologies": ["WordPress", "Elementor", "Some custom plugins"]
     },
