@@ -1,0 +1,153 @@
+{
+  "Header.Item1": "Rreth meje",
+  "Header.Item2": "Përvoja",
+  "Header.Item3": "Projektet",
+  "Header.Item4": "Kontakti",
+  "Header.cvBtn": "Cv",
+  "Header.cvName": "GentuarLushtaku.pdf",
+
+  "Banner.Pretitle": "Përshëndetje! Emri im është",
+  "Banner.Description": "Kam <span class='underline'>1 vit përvoje</span> në zhvillimin e sistemeve, ndërfaqeve, botëve dhe zgjidhjeve teknologjike për të bërë webin një vend më të mirë. Përqendrohem në shkruarjen dhe refaktorizimin e kodit të pastër, të ripërdorshëm dhe të shkallëzueshëm në <span class='underline'>Asp.Net</span> dhe <span class='underline'>Angular</span>, duke aplikuar praktikat e mira dhe standardet e zhvillimit.",
+  "Banner.ActionBtn": "Kalo në kontakt",
+
+  "AboutMe.Title": "Rreth meje",
+  "AboutMe.Paragraphs": [
+    "Në <span class='underline'>përvojën time</span> kam mbuluar shumë role: <span class='underline'>Zhvillues BackEnd</span>, <span class='underline'>Zhvillues FrontEnd</span>, <span class='underline'>Zhvillues WordPress</span>, dhe <span class='underline'>UI/UX</span>. Më pëlqen të kontribuoj me njohuritë e mia për të krijuar gjëra të reja që ndihmojnë në zgjidhjen e problemeve.",
+    "Aftësitë e mia përfshijnë gjithashtu implementimin e përmirësimeve në sisteme, optimizimin e faqeve, standardizimin e modeleve dhe sugjerimin dhe ekzekutimin e ideve që shtojnë vlerë në projektin mbi të cilin po punoj.",
+    "Programoj gjithashtu gjëra për përdorim personal, qoftë si një hobi ose për qëllime utilitare.",
+    "Disa nga teknologjitë në të cilat kam trajnuar dhe kam punuar përfshijnë (por nuk janë të kufizuara në):"
+  ],
+
+  "Experience.Title": "Përvoja",
+  "Experience.Jobs": [
+    {
+      "Tab": "CodeInvention",
+      "Title": "Zhvillues BackEnd",
+      "Date": "Shkurt 2024 - Gusht 2024",
+      "Description": [
+        "Krijova dhe zhvillova aplikacione web të shkallëzueshme duke përdorur Angular për ndërfaqen dhe ASP.NET Web API për back-end.",
+        "Shkrova dhe rishikova kod të cilësisë së lartë dhe të mbajtshëm, duke iu përmbajtur praktikave më të mira dhe standardeve të industrisë",
+        "Bashkëpunova me ekipe të ndryshme për të përcaktuar kërkesat e projektit, për të zbatuar veçoritë dhe për të zgjidhur problemet në mënyrë efikase.",
+        "Kontribuova në optimizimin e performancës së aplikacioneve dhe përmirësimin e përvojës së përdoruesit përmes zgjidhjeve inovative."
+      ]
+    },
+
+    {
+      "Tab": "Freelancer",
+      "Title": "I Pavarur",
+      "Date": "Maj 2023 - Aktualisht",
+      "Description": [
+        "Zhvillova aplikacione web dhe zgjidhje e-commerce të personalizuara duke përdorur ASP.NET dhe Angular, duke përmirësuar funksionalitetin dhe përvojën e përdoruesit",
+        "Krijova dhe implementova faqe web dhe ndërfaqe web në WordPress, duke përdorur mjete moderne të dizajnit si Photoshop dhe Figma.",
+        "Sigurova menaxhim të plotë të projektit, duke përfshirë mbledhjen e kërkesave, zhvillimin, testimin dhe shpërndarjen.",
+        "Bashkëpunova me klientët për të kuptuar nevojat e tyre dhe për të ofruar zgjidhje të përshtatura që nxisin rritjen e biznesit."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Projektet e mia",
+  "FeatureProjects.Label": "Projekti i Veçuar",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Netflix",
+      "Description": "Netflix është një aplikacion web për shikimin e filmave që ofron administrim të bazuar në role. Përdoruesit mund të menaxhojnë profilin dhe lejet e tyre ndërsa shijojnë një përvojë të papërkëputur të filmave. Aplikacioni përfshin funksionalitetin e konfirmimit të emailit duke përdorur SendGrid dhe shfrytëzon Cloudinary për ruajtjen e mediave",
+      "imgs": [
+        "assets/images/netflix/homeBf.PNG",
+        "assets/images/netflix/register.PNG",
+        "assets/images/netflix/emailconfiramtion.PNG",
+        "assets/images/netflix/login.PNG",
+        "assets/images/netflix/Movies.png",
+        "assets/images/netflix/AddActor.PNG",
+        "assets/images/netflix/actorForms.PNG"
+      ],
+      "Technologies": [
+        "Asp.Net",
+        "Angular",
+        "SASS",
+        "Angular Material",
+        "PostgreSql",
+        "Azure"
+      ]
+    },
+
+    {
+      "Title": "OnlineJobPortal",
+      "Description": "OnlineJobPortal është një aplikacion web i dizajnuar për kërkuesit e punës dhe punëdhënësit. Përdoruesit mund të shfletojnë listat e vendeve të punës, të aplikojnë për pozita dhe të menaxhojnë aplikimet e tyre. Platforma përfshin një panel administrativ që lejon administratorët të rishikojnë aplikimet dhe të shkarkojnë CV-të. E ndërtuar me <span class='underline'>Angular</span> për front-end dhe <span class='underline'>ASP.NET Web API</span> për back-end, ofron një përvojë të papërkëputur për të dyja palët, kërkuesit e punës dhe administratorët.",
+      "imgs": [
+        "assets/images/OnlineJobPortal/1.PNG",
+        "assets/images/OnlineJobPortal/2.PNG",
+        "assets/images/OnlineJobPortal/33.PNG",
+        "assets/images/OnlineJobPortal/3.PNG",
+        "assets/images/OnlineJobPortal/4.PNG",
+        "assets/images/OnlineJobPortal/contact.PNG",
+        "assets/images/OnlineJobPortal/about.PNG",
+        "assets/images/OnlineJobPortal/home.PNG",
+        "assets/images/OnlineJobPortal/dashboard.PNG",
+        "assets/images/OnlineJobPortal/newjob.PNG",
+        "assets/images/OnlineJobPortal/joblist.PNG",
+        "assets/images/OnlineJobPortal/userList.PNG",
+        "assets/images/OnlineJobPortal/contacttList.PNG"
+      ],
+      "Technologies": [
+        "Asp.Net Web Forms",
+        "VueJS",
+        "Html&CSS",
+        "Bootstrap",
+        "MySQL"
+      ]
+    },
+
+    {
+      "Title": "CHELSEAFCshqip",
+      "Description": "CHELSEAFCshqip është një portal lajmesh i dedikuar për tifozët e Chelsea Football Club. Platforma ofron lajme, artikuj dhe përditësime të fundit për klubin. Përdoruesit mund të abonohen dhe të regjistrohen për përmbajtje premium për të aksesuar veçori dhe informacion ekskluziv. E ndërtuar me një fokus në ofrimin e një përvoje të pasur dhe angazhues për mbështetësit e Chelsea.",
+      "imgs": [
+        "assets/images/chelseafcshqip/1.PNG",
+        "assets/images/chelseafcshqip/register.PNG",
+        "assets/images/chelseafcshqip/login.PNG",
+        "assets/images/chelseafcshqip/3.PNG",
+        "assets/images/chelseafcshqip/2.PNG",
+        "assets/images/chelseafcshqip/4.PNG"
+      ],
+      "Technologies": [
+        "WordPress",
+        "Elementor",
+        "Disa plugina të personalizuar"
+      ]
+    },
+    {
+      "Title": "ERI",
+      "Description": "ERI është një faqe web për një kompani kopshtarie në Gjermani. Site-i tregon një gamë të shërbimeve të kopshtarisë dhe përkufizimin e tyre. Ofron informacion të detajuar mbi shërbimet e tyre dhe veçori të tjera për të përmirësuar përvojën e përdoruesit, duke e bërë atë një platformë të plotë për klientët që të eksplorojnë ofertat dhe të kontaktojnë për nevojat e tyre të kopshtarisë.",
+      "imgs": [
+        "assets/images/tusuperplan/tusuperplan1.png",
+        "assets/images/tusuperplan/tusuperplan2.png",
+        "assets/images/tusuperplan/tusuperplan3.png",
+        "assets/images/tusuperplan/tusuperplan4.png",
+        "assets/images/tusuperplan/tusuperplan5.png"
+      ],
+      "Technologies": [
+        "WordPress",
+        "Elementor",
+        "Disa plugina të personalizuar"
+      ]
+    },
+    {
+      "Title": "EatSmart",
+      "Description": "Website për restorant i ndërtuar nga zero <span class='underline'></span>, <span class='underline'>dhe i dizajnuar me Figma</span>, <span class='underline'></span>",
+      "imgs": [
+        "assets/images/eatsmart/1.PNG",
+        "assets/images/eatsmart/2.PNG",
+        "assets/images/eatsmart/3.PNG",
+        "assets/images/eatsmart/4.PNG",
+        "assets/images/eatsmart/5.PNG",
+        "assets/images/eatsmart/6.PNG",
+        "assets/images/eatsmart/8.PNG",
+        "assets/images/eatsmart/10.PNG"
+      ],
+      "Technologies": ["HTML", "CSS", "JavaScript", "PixiJS", "Bootrap"]
+    }
+  ],
+  "Contact.Pretitle": "Çfarë është më pas",
+  "Contact.Title": "Më kontaktoni",
+  "Contact.Content": "Do të jem i lumtur të marr kontaktin tuaj nëse dëshironi të flisni për mundësi të reja. Më shkruani dhe do t’i përgjigjem sa më shpejt që të shoh mesazhin tuaj. Dizajn i thjeshtë me një faqe që përmban një letër profili me informacion të bazuar mbi një person.",
+  "Contact.Btn": "Përshëndetje"
+}

@@ -4,10 +4,10 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_GentuarLushtaku.pdf",
+  "Header.cvName": "GentuarLushtaku.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>1 year of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Asp.Net</span> and <span class='underline'>Angular</span>, applying good practices and development standards.",
+  "Banner.Description": "I have <span class='underline'>one year experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Asp.Net</span> and <span class='underline'>Angular</span>, applying good practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
@@ -25,9 +25,10 @@
       "Title": "BackEnd developer",
       "Date": "February 2024 - August 2024",
       "Description": [
-        "",
-        "Developing backend solutions using Clean Architecture",
-        "Occasionally working with Angular and Figma for UI/UX tasks"
+        "Designed and developed scalable web applications using Angular for the front-end and ASP.NET Web API for the back-end.",
+        "Wrote and reviewed high-quality, maintainable code,adhering to best practices and industry standards",
+        "Collaborated with cross-functional teams to define project requirements, implement features, and resolve issues efficiently.",
+        "Contributed to optimizing application performance and enhancing user experience through innovative solutions."
       ]
     },
 
@@ -36,10 +37,10 @@
       "Title": "Independent",
       "Date": "May 2023 - Present",
       "Description": [
-        "Implementing continuous improvements, working on frontend and backend.",
-        "Creating platforms with Angular, Asp.Net, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Automation of processes with SharePoint & Power Automate.",
-        "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+        "Developed custom web applications and e-commerce solutions using ASP.NET and Angular, enhancing functionality and user experience",
+        "Designed and implemented responsive websites and web interfaces in WordPress, leveraging modern design tools like Photoshop and Figma.",
+        "Provided end-to-end project management, including requirements gathering, development, testing, andd eployment.",
+        "Collaborated with clients to understand their needs and deliver tailored solutions that drive business growth.."
       ]
     }
   ],
