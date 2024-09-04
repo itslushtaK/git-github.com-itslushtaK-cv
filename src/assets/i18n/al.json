@@ -49,6 +49,16 @@
   "FeatureProjects.Label": "Projekti i Veçuar",
   "FeatureProjects.Projects": [
     {
+      "Title": "ZigGroup",
+      "Description": "ZigGroup është një faqe interneti për një kompani arkitekture, që shfaq një portofol projektesh arkitekturore dhe më shumë. Faqja thekson ekspertizën e kompanisë në dizajn dhe ndërtim, duke ofruar vizitorëve detaje të hollësishme mbi punën e tyre. E ndërtuar në WordPress me Elementor, faqja përmban plugin-e të personalizuara për funksionalitet të shtuar dhe një përvojë vizuale të këndshme për përdoruesit.",
+      "imgs": [
+        "assets/images/zigarch/1.GIF",
+        "assets/images/zigarch/2.GIF",
+        "assets/images/zigarch/3.GIF"
+      ],
+      "Technologies": ["WordPress", "Elementor", "Plugin-e të personalizuara"]
+    },
+    {
       "Title": "Netflix",
       "Description": "Netflix është një aplikacion web për shikimin e filmave që ofron administrim të bazuar në role. Përdoruesit mund të menaxhojnë profilin dhe lejet e tyre ndërsa shijojnë një përvojë të papërkëputur të filmave. Aplikacioni përfshin funksionalitetin e konfirmimit të emailit duke përdorur SendGrid dhe shfrytëzon Cloudinary për ruajtjen e mediave",
       "imgs": [

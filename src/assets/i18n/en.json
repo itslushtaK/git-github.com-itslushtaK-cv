@@ -49,6 +49,16 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
+      "Title": "ZigGroup",
+      "Description": "ZigGroup is a website for an architecture firm, showcasing a portfolio of architectural projects and more. The site highlights the company's expertise in design and construction, providing visitors with detailed insights into their work. Built on WordPress with Elementor, the site features custom plugins for enhanced functionality and a visually engaging user experience.",
+      "imgs": [
+        "assets/images/zigarch/1.gif",
+        "assets/images/zigarch/2.gif",
+        "assets/images/zigarch/3.gif"
+      ],
+      "Technologies": ["WordPress", "Elementor", "Some custom plugins"]
+    },
+    {
       "Title": "Netflix",
       "Description": "Netflix is a movie-watching web application featuring role-based administration. Users can manage their profiles and permissions while enjoying a seamless movie experience. The application includes email confirmation functionality using SendGrid and utilizes Cloudinary for media storage",
       "imgs": [
