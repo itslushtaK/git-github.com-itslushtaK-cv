@@ -4,7 +4,7 @@
   "Header.Item3": "Projektet",
   "Header.Item4": "Kontakti",
   "Header.cvBtn": "Cv",
-  "Header.cvName": "GentuarLushtaku.pdf",
+  "Header.cvName": "CVGentuarLushtaku.pdf",
 
   "Banner.Pretitle": "Përshëndetje! Emri im është",
   "Banner.Description": "Kam <span class='underline'>1 vit përvoje</span> në zhvillimin e sistemeve, ndërfaqeve, botëve dhe zgjidhjeve teknologjike për të bërë webin një vend më të mirë. Përqendrohem në shkruarjen dhe refaktorizimin e kodit të pastër, të ripërdorshëm dhe të shkallëzueshëm në <span class='underline'>Asp.Net</span> dhe <span class='underline'>Angular</span>, duke aplikuar praktikat e mira dhe standardet e zhvillimit.",
@@ -46,7 +46,6 @@
   ],
 
   "FeatureProjects.Title": "Projektet e mia",
-  "FeatureProjects.Label": "Projekti i Veçuar",
   "FeatureProjects.Projects": [
     {
       "Title": "ZigGroup",
@@ -56,7 +55,8 @@
         "assets/images/zigarch/2.GIF",
         "assets/images/zigarch/3.GIF"
       ],
-      "Technologies": ["WordPress", "Elementor", "Plugin-e të personalizuara"]
+      "Technologies": ["WordPress", "Elementor", "Plugin-e të personalizuara"],
+      "LiveLink": "https://zigarch.com"
     },
     {
       "Title": "Netflix",
