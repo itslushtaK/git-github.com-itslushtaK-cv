@@ -56,7 +56,8 @@
         "assets/images/zigarch/2.gif",
         "assets/images/zigarch/3.gif"
       ],
-      "Technologies": ["WordPress", "Elementor", "Some custom plugins"]
+      "Technologies": ["WordPress", "Elementor", "Some custom plugins"],
+      "LiveLink": "https://zigarch.com"
     },
     {
       "Title": "Netflix",
