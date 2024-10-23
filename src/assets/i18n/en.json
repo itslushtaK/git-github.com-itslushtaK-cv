@@ -49,6 +49,16 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
+      "Title": "SportNews",
+      "Description": "Sport Shqip is a dynamic website designed to deliver the latest sports news and updates specifically tailored to Albanian-speaking audiences. Built using WordPress and Elementor, the platform provides real-time sports coverage across various categories, including football, basketball, tennis, and more. The site integrates Google AdSense to monetize traffic and employs a user-friendly, responsive design to ensure optimal performance on all devices.",
+      "imgs": [
+        "assets/images/sportnews/1.PNG",
+        "assets/images/sportnews/2.PNG"
+      ],
+      "Technologies": ["PHP", "Wordpress"],
+      "LiveLink": "https://sport-shqip.com"
+    },
+    {
       "Title": "ZigGroup",
       "Description": "ZigGroup is a website for an architecture firm, showcasing a portfolio of architectural projects and more. The site highlights the company's expertise in design and construction, providing visitors with detailed insights into their work. Built on WordPress with Elementor, the site features custom plugins for enhanced functionality and a visually engaging user experience.",
       "imgs": [
@@ -56,7 +66,7 @@
         "assets/images/zigarch/2.gif",
         "assets/images/zigarch/3.gif"
       ],
-      "Technologies": ["WordPress", "Elementor", "Some custom plugins"],
+      "Technologies": ["PHP", "Wordpress", "Custom theme"],
       "LiveLink": "https://zigarch.com"
     },
     {

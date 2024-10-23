@@ -48,6 +48,16 @@
   "FeatureProjects.Title": "Projektet e mia",
   "FeatureProjects.Projects": [
     {
+      "Title": "SportNews",
+      "Description": "Sport Shqip është një faqe interneti dinamike e krijuar për të ofruar lajmet dhe përditësimet më të fundit sportive të përshtatura posaçërisht për audiencën shqipfolëse. E ndërtuar duke përdorur WordPress dhe Elementor, platforma ofron mbulim sportiv në kohë reale në kategori të ndryshme, duke përfshirë futbollin, basketbollin, tenisin dhe më shumë. Sajti integron Google AdSense për të fituar para nga trafiku dhe përdor një dizajn miqësor dhe të përgjegjshëm për përdoruesit për të siguruar performancë optimale në të gjitha pajisjet.",
+      "imgs": [
+        "assets/images/sportnews/1.PNG",
+        "assets/images/sportnews/2.PNG"
+      ],
+      "Technologies": ["PHP", "Wordpress"],
+      "LiveLink": "https://sport-shqip.com"
+    },
+    {
       "Title": "ZigGroup",
       "Description": "ZigGroup është një faqe interneti për një kompani arkitekture, që shfaq një portofol projektesh arkitekturore dhe më shumë. Faqja thekson ekspertizën e kompanisë në dizajn dhe ndërtim, duke ofruar vizitorëve detaje të hollësishme mbi punën e tyre. E ndërtuar në WordPress me Elementor, faqja përmban plugin-e të personalizuara për funksionalitet të shtuar dhe një përvojë vizuale të këndshme për përdoruesit.",
       "imgs": [
