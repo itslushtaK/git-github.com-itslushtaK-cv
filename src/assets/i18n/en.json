@@ -49,6 +49,21 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
+      "Title": "Lost&Found",
+      "Description": "Lost & Found is an interactive web platform aimed at helping users quickly locate or report lost items within a community. Designed with a focus on user experience, the platform allows users to register, report lost items, browse available listings, and engage with others through comments. Built using React, Node.js, and MongoDB, it provides a seamless interface and real-time item tracking capabilities. With features like category filtering (e.g., electronics, personal items), notifications, and an approval system, Lost & Found fosters a secure and collaborative environment for users to reconnect with their misplaced belongings.",
+      "imgs": [
+        "assets/images/lost&found/1.PNG",
+        "assets/images/lost&found/2.PNG",
+        "assets/images/lost&found/3.PNG",
+        "assets/images/lost&found/4.PNG",
+        "assets/images/lost&found/5.PNG",
+        "assets/images/lost&found/6.PNG",
+        "assets/images/lost&found/7.PNG"
+      ],
+      "Technologies": ["React", "NodeJs & Express", "MongoDB"],
+      "LiveLink": "https://kerko-gjej.vercel.app"
+    },
+    {
       "Title": "SportNews",
       "Description": "Sport Shqip is a dynamic website designed to deliver the latest sports news and updates specifically tailored to Albanian-speaking audiences. Built using WordPress and Elementor, the platform provides real-time sports coverage across various categories, including football, basketball, tennis, and more. The site integrates Google AdSense to monetize traffic and employs a user-friendly, responsive design to ensure optimal performance on all devices.",
       "imgs": [

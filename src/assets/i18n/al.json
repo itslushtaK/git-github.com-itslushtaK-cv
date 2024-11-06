@@ -48,6 +48,21 @@
   "FeatureProjects.Title": "Projektet e mia",
   "FeatureProjects.Projects": [
     {
+      "Title": "Kerko&Gjej",
+      "Description": "Lost & Found është një platformë interaktive në internet që synon të ndihmojë përdoruesit të gjejnë ose raportojnë sendet e humbura brenda një komuniteti. Projektuar me fokus në përvojën e përdoruesit, platforma lejon regjistrimin, raportimin e sendeve të humbura, shfletimin e listave të disponueshme dhe ndërveprimin me të tjerët përmes komenteve. Ndërtuar duke përdorur React, Node.js dhe MongoDB, ajo ofron një ndërfaqe të qetë dhe aftësi për ndjekje në kohë reale të sendeve. Me veçori si filtrimi sipas kategorive (p.sh., elektronikë, sende personale), njoftime dhe një sistem miratimi, Lost & Found krijon një mjedis të sigurt dhe bashkëpunues për përdoruesit që të gjejnë përsëri sendet e humbura.",
+      "imgs": [
+        "assets/images/lost&found/1.PNG",
+        "assets/images/lost&found/2.PNG",
+        "assets/images/lost&found/3.PNG",
+        "assets/images/lost&found/4.PNG",
+        "assets/images/lost&found/5.PNG",
+        "assets/images/lost&found/6.PNG",
+        "assets/images/lost&found/7.PNG"
+      ],
+      "Technologies": ["React", "NodeJs & Express", "MongoDB"],
+      "LiveLink": "https://kerko-gjej.vercel.app"
+    },
+    {
       "Title": "SportNews",
       "Description": "Sport Shqip është një faqe interneti dinamike e krijuar për të ofruar lajmet dhe përditësimet më të fundit sportive të përshtatura posaçërisht për audiencën shqipfolëse. E ndërtuar duke përdorur WordPress dhe Elementor, platforma ofron mbulim sportiv në kohë reale në kategori të ndryshme, duke përfshirë futbollin, basketbollin, tenisin dhe më shumë. Sajti integron Google AdSense për të fituar para nga trafiku dhe përdor një dizajn miqësor dhe të përgjegjshëm për përdoruesit për të siguruar performancë optimale në të gjitha pajisjet.",
       "imgs": [
