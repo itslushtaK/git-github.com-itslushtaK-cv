@@ -85,6 +85,12 @@
       "LiveLink": "https://zigarch.com"
     },
     {
+      "Title": "LifeStats",
+      "Description": "LifeStats is a web application that calculates and visualizes interesting life and world statistics based on the user's birth date. Users can discover personal statistics like days lived, heartbeats, and hours slept, as well as global stats such as the increase in global CO2 levels and population changes. Built with <span class='underline'>React</span> and styled with <span class='underline'>Tailwind CSS</span>, LifeStats provides an engaging and informative experience for users interested in exploring their life's impact.",
+      "imgs": ["assets/images/lifestats/1.PNG"],
+      "Technologies": ["React", "Tailwind"]
+    },
+    {
       "Title": "Netflix",
       "Description": "Netflix is a movie-watching web application featuring role-based administration. Users can manage their profiles and permissions while enjoying a seamless movie experience. The application includes email confirmation functionality using SendGrid and utilizes Cloudinary for media storage",
       "imgs": [

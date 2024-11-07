@@ -84,6 +84,13 @@
       "LiveLink": "https://zigarch.com"
     },
     {
+      "Title": "LifeStats",
+      "Description": "LifeStats është një aplikacion web që llogarit dhe vizualizon statistika interesante të jetës dhe botës bazuar në datën e lindjes së përdoruesit. Përdoruesit mund të zbulojnë statistika personale si ditët e jetuara, rrahjet e zemrës dhe orët e gjumit, si dhe statistika globale si rritja e niveleve të CO2 dhe ndryshimet në popullsinë globale. Ndërtuar me <span class='underline'>React</span> dhe stiluar me <span class='underline'>Tailwind CSS</span>, LifeStats ofron një përvojë tërheqëse dhe informuese për ata që janë të interesuar të eksplorojnë ndikimin e jetës së tyre.",
+      "imgs": ["assets/images/lifestats/1.PNG"],
+      "Technologies": ["React", "Tailwind"],
+      "LiveLink": "https://life-stats-kappa.vercel.app/"
+    },
+    {
       "Title": "Netflix",
       "Description": "Netflix është një aplikacion web për shikimin e filmave që ofron administrim të bazuar në role. Përdoruesit mund të menaxhojnë profilin dhe lejet e tyre ndërsa shijojnë një përvojë të papërkëputur të filmave. Aplikacioni përfshin funksionalitetin e konfirmimit të emailit duke përdorur SendGrid dhe shfrytëzon Cloudinary për ruajtjen e mediave",
       "imgs": [
