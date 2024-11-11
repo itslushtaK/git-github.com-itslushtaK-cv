@@ -1,0 +1,6 @@
+title: "Gentuar Lushtaku"
+description: "Portfolio"
+theme: jekyll-theme-primer # Specify the theme if needed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
