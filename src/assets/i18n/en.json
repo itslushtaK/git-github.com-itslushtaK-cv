@@ -21,6 +21,17 @@
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
+      "Tab": "IDfier",
+      "Title": "React Native Developer",
+      "Date": "Oct 2024 - Present (Project based)",
+      "Description": [
+        "Developed mobile applications using React Native and Expo, focusing on creating intuitive and user-friendly interfaces.",
+        "Implemented features such as authentication, data storage, and API integrations to enhance functionality.",
+        "Collaborated with cross-functional teams to define project requirements, implement features, and resolve issues efficiently.",
+        "Contributed to optimizing application performance and enhancing user experience through innovative solutions."
+      ]
+    },
+    {
       "Tab": "CodeInvention",
       "Title": "BackEnd developer",
       "Date": "February 2024 - August 2024",
