@@ -21,17 +21,27 @@
   "Experience.Title": "Kariera",
   "Experience.Jobs": [
     {
-      "Tab": "CodeInvention",
-      "Title": "Zhvillues BackEnd",
-      "Date": "Shkurt 2024 - Gusht 2024",
+      "Tab": "IDfier",
+      "Title": "Zhvillues React Native",
+      "Date": "Tetor 2024 - Aktualisht (Bazuar në projekt)",
       "Description": [
-        "Krijova dhe zhvillova aplikacione web të shkallëzueshme duke përdorur Angular për ndërfaqen dhe ASP.NET Web API për back-end.",
-        "Shkrova dhe rishikova kod të cilësisë së lartë dhe të mbajtshëm, duke iu përmbajtur praktikave më të mira dhe standardeve të industrisë",
+        "Zhvillova aplikacione mobile duke përdorur React Native dhe Expo, me fokus në krijimin e ndërfaqeve intuitive dhe të lehta për përdoruesit.",
+        "Implementova veçori si autentikimi, ruajtja e të dhënave dhe integrimet API për të përmirësuar funksionalitetin.",
         "Bashkëpunova me ekipe të ndryshme për të përcaktuar kërkesat e projektit, për të zbatuar veçoritë dhe për të zgjidhur problemet në mënyrë efikase.",
         "Kontribuova në optimizimin e performancës së aplikacioneve dhe përmirësimin e përvojës së përdoruesit përmes zgjidhjeve inovative."
       ]
     },
-
+    {
+      "Tab": "Code-Invention",
+      "Title": "Inxhinier Software",
+      "Date": "Shkurt 2024 - Gusht 2024",
+      "Description": [
+        "Krijova dhe zhvillova aplikacione web të shkallëzueshme duke përdorur Angular dhe ReactJs për ndërfaqen dhe ASP.NET Web API për back-end.",
+        "Shkrova dhe rishikova kod të cilësisë së lartë dhe të mbajtshëm, duke iu përmbajtur praktikave më të mira dhe standardeve të industrisë.",
+        "Bashkëpunova me ekipe të ndryshme për të përcaktuar kërkesat e projektit, për të zbatuar veçoritë dhe për të zgjidhur problemet në mënyrë efikase.",
+        "Kontribuova në optimizimin e performancës së aplikacioneve dhe përmirësimin e përvojës së përdoruesit përmes zgjidhjeve inovative."
+      ]
+    },
     {
       "Tab": "Freelancer",
       "Title": "I Pavarur",
@@ -190,6 +200,6 @@
   ],
   "Contact.Pretitle": "Çfarë është më pas",
   "Contact.Title": "Më kontaktoni",
-  "Contact.Content": "Do të jem i lumtur të marr kontaktin tuaj nëse dëshironi të flisni për mundësi të reja. Më shkruani dhe do t’i përgjigjem sa më shpejt që të shoh mesazhin tuaj. Dizajn i thjeshtë me një faqe që përmban një letër profili me informacion të bazuar mbi një person.",
+  "Contact.Content": "Do të jem i lumtur të marr kontaktin tuaj nëse dëshironi të flisni për mundësi të reja. Më shkruani dhe do t'i përgjigjem sa më shpejt që të shoh mesazhin tuaj. Dizajn i thjeshtë me një faqe që përmban një letër profili me informacion të bazuar mbi një person.",
   "Contact.Btn": "Përshëndetje"
 }
