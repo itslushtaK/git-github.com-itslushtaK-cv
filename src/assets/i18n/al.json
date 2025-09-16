@@ -58,6 +58,19 @@
   "FeatureProjects.Title": "Projektet e mia",
   "FeatureProjects.Projects": [
     {
+      "Title": "IDfier",
+      "Description": "IDfier është një aplikacion verifikimi i identitetit peer-to-peer që ndihmon njerëzit të konfirmojnë se kush po flasin para se të shkojnë në rrugë, të dërgojnë para, ose të ndajnë gjëra të rëndësishme. Ndërtuar duke përdorur teknologjinë e njëjtë të besuar nga bankat dhe kontrollin e kufirit, IDfier përdor skanimin e ID-së të publikuar, përputhjen e fytyrës biometrike, leximin e chip-it NFC dhe detektimin e vdekjes për të prekur deepfakes. Kur e shihni një datë nga një aplikacion të dates, të lëshoni flatin tuaj, të blejë një shitës të dytë, ose thjesht të flisni me një person të ri në internet, IDfier siguron se personi është i vërtetë, i njeri, dhe verifikuar.",
+      "imgs": [
+        "assets/images/idfier/1.png",
+        "assets/images/idfier/2.png",
+        "assets/images/idfier/3.png",
+        "assets/images/idfier/4.png",
+        "assets/images/idfier/5.png"
+      ],
+      "Technologies": ["NextJS", "NodeJs & Express", "SQL", "Drizzle"],
+      "LiveLink": "https://idfier.com"
+    },
+    {
       "Title": "Kerko&Gjej",
       "Description": "Lost & Found është një platformë interaktive në internet që synon të ndihmojë përdoruesit të gjejnë ose raportojnë sendet e humbura brenda një komuniteti. Projektuar me fokus në përvojën e përdoruesit, platforma lejon regjistrimin, raportimin e sendeve të humbura, shfletimin e listave të disponueshme dhe ndërveprimin me të tjerët përmes komenteve. Ndërtuar duke përdorur React, Node.js dhe MongoDB, ajo ofron një ndërfaqe të qetë dhe aftësi për ndjekje në kohë reale të sendeve. Me veçori si filtrimi sipas kategorive (p.sh., elektronikë, sende personale), njoftime dhe një sistem miratimi, Lost & Found krijon një mjedis të sigurt dhe bashkëpunues për përdoruesit që të gjejnë përsëri sendet e humbura.",
       "imgs": [
