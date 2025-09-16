@@ -7,7 +7,7 @@
   "Header.cvName": "CVGentuarLushtaku.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>one year experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Asp.Net</span> and  <span class='underline'>ReactJS</span> & <span class='underline'>Angular</span>, applying good practices and development standards.",
+  "Banner.Description": "I have <span class='underline'> experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Asp.Net & NodeJS</span> and   <span class='underline'>ReactJS</span> & <span class='underline'>React Native</span>, applying good practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
@@ -22,7 +22,7 @@
   "Experience.Jobs": [
     {
       "Tab": "IDfier",
-      "Title": "React Native Developer",
+      "Title": "Software Developer focused on React Native ",
       "Date": "Oct 2024 - Present (Project based)",
       "Description": [
         "Developed mobile applications using React Native and Expo, focusing on creating intuitive and user-friendly interfaces.",
@@ -59,6 +59,19 @@
   "FeatureProjects.Title": "My projects",
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
+    {
+      "Title": "IDfier",
+      "Description": "IDfier is a peer-to-peer identity verification app that helps people confirm who they're really talking to before they meet, send money, or share anything important. Built using the same technology trusted by banks and border control, IDfier uses government-issued ID scanning, biometric face matching, NFC chip reading, and liveness detection to prevent deepfakes. Whether you're meeting a date from a dating app, letting out your flat, buying second-hand, or just chatting with someone new online, IDfier ensures the person is genuine, human, and verified.",
+      "imgs": [
+        "assets/images/idfier/1.png",
+        "assets/images/idfier/2.png",
+        "assets/images/idfier/3.png",
+        "assets/images/idfier/4.png",
+        "assets/images/idfier/5.png"
+      ],
+      "Technologies": ["NextJS", "NodeJs & Express", "SQL", "Drizzle"],
+      "LiveLink": "https://idfier.com"
+    },
     {
       "Title": "Lost&Found",
       "Description": "Lost & Found is an interactive web platform aimed at helping users quickly locate or report lost items within a community. Designed with a focus on user experience, the platform allows users to register, report lost items, browse available listings, and engage with others through comments. Built using React, Node.js, and MongoDB, it provides a seamless interface and real-time item tracking capabilities. With features like category filtering (e.g., electronics, personal items), notifications, and an approval system, Lost & Found fosters a secure and collaborative environment for users to reconnect with their misplaced belongings.",
