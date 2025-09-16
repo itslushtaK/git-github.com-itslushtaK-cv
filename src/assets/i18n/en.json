@@ -69,7 +69,7 @@
         "assets/images/idfier/4.png",
         "assets/images/idfier/5.png"
       ],
-      "Technologies": ["NextJS", "NodeJs & Express", "SQL", "Drizzle"],
+      "Technologies": ["NextJS", "NodeJs & Express", "SQL", "DrizzleORM"],
       "LiveLink": "https://idfier.com"
     },
     {
